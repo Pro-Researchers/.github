@@ -44,7 +44,7 @@ We’re always open to **new collaborators**. If you’re passionate about **hac
 ---
 
 ## Connect With Us  
--  GitHub: [ProResearchers](https://github.com/ProResearchers) 
+-  GitHub: [ProResearchers](https://github.com/Pro-Researchers)
 - Owner : [Krishna kanta bera](https://github.com/krishnaKanta2008)
 ---
  
